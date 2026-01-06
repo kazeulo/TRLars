@@ -57,9 +57,11 @@
 
 ### Major updates
  - Revised collection structure: added more categories and enhanced assessment questions
+ - Updated TRL calculation: users must satisfy all questions at a level to advance.
 
 ### Minor updates
  - Updated color scheme from red to green
  - Separated technology details into their own section/page
  - Added disclaimer page
  - Included target users for the recommendation
+ - Added TRL labels
