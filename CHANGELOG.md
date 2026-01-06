@@ -50,3 +50,16 @@
 - Removed render dependency when fetching hugging face endpoint
 - Integrated AI server directly to the frontend (wix)
 - Improved html consistency for AI prompts
+
+---
+
+## [1.3.0] - 2026-01-06
+
+### Major updates
+ - Revised collection structure: added more categories and enhanced assessment questions
+
+### Minor updates
+ - Updated color scheme from red to green
+ - Separated technology details into their own section/page
+ - Added disclaimer page
+ - Included target users for the recommendation

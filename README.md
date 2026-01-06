@@ -46,6 +46,12 @@ Many promising technologies fail not due to technical weakness, but due to uncle
 
 ---
 
+## Architecture
+
+See [architechture.md](docs/architecture.md) for system design, assessment flows, and data flows.
+
+---
+
 ## Documentation
 
 Detailed technical and architectural documentation is available in the [`docs/`](docs/) directory.
