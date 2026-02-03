@@ -79,3 +79,22 @@
   - Added IP branching in Intellectual Property Status
   - Added download feature for trl result
   - Added send result via email feature 
+
+--- 
+ 
+ ## [1.3.2] - 2026-02-01
+
+ ### Minor updates
+  - Revised Disclaimer [Done]
+  - Added 'back' button for technology details pages [Done]
+  - Added completed tasks in pdf document [Done]
+  - Changed PDF to preview instead of automatic download [Done]
+  - Put selection IP type first before IP status 
+  - Revise questions dataset
+  - Add FAQs page
+  - Add Data Privacy Page after disclaimer
+
+### Major updates
+  - Added summary page (uneditable for now) [Done]
+  - Change calculation logic, include highest "achievable" trl and put gaps
+
