@@ -92,8 +92,8 @@
   - Put selection IP type first before IP status 
   - Revised questions dataset [Done]
   - Added FAQs page [Done]
-  - Added Data Privacy Page after disclaimer
-  - Added confirmation pop-up before user proceed to results
+  - Added Data Privacy Page after disclaimer [done]
+  - Added confirmation pop-up before user proceed to results 
 
 ### Major updates
   - Added summary page (uneditable for now) [Done]
